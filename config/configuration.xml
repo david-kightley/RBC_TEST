@@ -1,0 +1,7 @@
+<prices>
+	<price name="apple">15</price>
+	<price name="banana">20</price>
+	<price name="orange">30</price>
+	<price name="lemon">35</price>
+	<price name="peach">25</price>
+</prices>
